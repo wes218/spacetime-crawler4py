@@ -108,3 +108,7 @@ venv.bak/
 
 *.full.py
 *.shelve
+.idea/vcs.xml
+.idea/spacetime-crawler4py.iml
+.idea/modules.xml
+.idea/misc.xml
